@@ -1,5 +1,5 @@
 baseURL      = "https://gallery.bio-spring.top/"
-title        = "Gallery of Kids"
+title        = "左左和右右的画廊"
 disableKinds = ["section", "taxonomy", "term"]
 
 [params]
